@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [shift-scheduler](https://github.com/oasido/shift-scheduler "Web app for easy shift scheduling & easy employee absence requests management.").
+
 <!--
 **oasido/oasido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
